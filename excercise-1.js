@@ -31,13 +31,16 @@ function getLength (item) {
 // parameter is greater than the first. Otherwise
 // the function should return `false`.
 
-function greaterThan (input1, input2) {
-	if (input2 > input1) {
-		return true;
-	} else {
-		return false;
-	};
-};
+
+
+// function greaterThan(input1, input2) {
+// 	if (input2 > input1) {
+// 		return true;
+// 	} else {
+// 		return false;
+// 	};
+// };
+// Do not solve with if/else. 
 
 // Q5
 // Write a function called `greet` that takes a
